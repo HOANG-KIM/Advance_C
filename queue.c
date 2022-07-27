@@ -37,11 +37,7 @@ int Front(){
 
 int main(int argc, char const *argv[])
 {
-    // int data[max] = {1,2,3,4,5,6};
-    // for (int i = 0; i < max; i++)
-    // {
-    //     enqueue(data[i]);
-    // }
+    
     enqueue(1);
     enqueue(2);
     enqueue(4);
